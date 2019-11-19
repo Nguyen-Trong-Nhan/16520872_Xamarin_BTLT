@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{7763D3AC-A10C-49E6-8A49-A17FA27B01B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaiTap3/BaiTap3/ViewModels/ViewModelBase.cs">
+    <Files>
+      <File FileName="BaiTap3/BaiTap3/Views/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="BaiTap3/BaiTap3/App.xaml" />
+      <File FileName="BaiTap3/BaiTap3/App.xaml.cs" />
+      <File FileName="BaiTap3/BaiTap3/Views/ThemHoaPage.xaml" />
+      <File FileName="BaiTap3/BaiTap3/Views/ThemLoaiHoaPage.xaml" />
+      <File FileName="BaiTap3/BaiTap3/Models/Hoa.cs" />
+      <File FileName="BaiTap3/BaiTap3/Views/HoaListPage.xaml" />
+      <File FileName="BaiTap3/BaiTap3/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
+      <File FileName="BaiTap3/BaiTap3/ViewModels/HoaListPageViewModel.cs" />
+      <File FileName="BaiTap3/BaiTap3/Models/LoaiHoa.cs" />
+      <File FileName="BaiTap3/BaiTap3/Services/SQLite/Database.cs" />
+      <File FileName="BaiTap3/BaiTap3/Views/HoaListPage.xaml.cs" />
+      <File FileName="BaiTap3/BaiTap3/Views/ThemHoaPage.xaml.cs" />
+      <File FileName="BaiTap3/BaiTap3/ViewModels/ThemHoaPageViewModel.cs" />
+      <File FileName="BaiTap3/BaiTap3/ViewModels/ThemLoaiHoaPageViewModel.cs" />
+      <File FileName="BaiTap3/BaiTap3/ViewModels/MainPageViewModel.cs" />
+      <File FileName="BaiTap3/BaiTap3/Views/MainPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaiTap3" expanded="True">
+            <Node name="BaiTap3" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="SQLite" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="ViewModelBase.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="HoaListPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="ThemHoaPage.xaml" expanded="True" />
+                <Node name="ThemLoaiHoaPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BaiTap3.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

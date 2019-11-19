@@ -1,0 +1,13 @@
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/bin/Release/netstandard2.0/BaiTap3.deps.json
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/bin/Release/netstandard2.0/BaiTap3.dll
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/bin/Release/netstandard2.0/BaiTap3.pdb
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/Views/HoaListPage.xaml.g.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/Views/ThemHoaPage.xaml.g.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/Views/ThemLoaiHoaPage.xaml.g.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/BaiTap3.AssemblyInfoInputs.cache
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/BaiTap3.AssemblyInfo.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/XamlC.stamp
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/BaiTap3.dll
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTLT/16520872_BTT3/BaiTap3/BaiTap3/obj/Release/netstandard2.0/BaiTap3.pdb

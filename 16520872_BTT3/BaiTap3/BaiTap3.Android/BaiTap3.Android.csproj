@@ -95,7 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BaiTap3\BaiTap3.csproj">
-      <Project>{A682884C-CB44-4A89-B752-27BB634E0ABE}</Project>
+      <Project>{2DB8FA30-8B3F-4FA3-A512-61F52C7832C9}</Project>
       <Name>BaiTap3</Name>
     </ProjectReference>
   </ItemGroup>

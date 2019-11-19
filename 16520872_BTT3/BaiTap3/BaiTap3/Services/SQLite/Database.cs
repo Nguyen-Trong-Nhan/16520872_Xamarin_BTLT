@@ -17,6 +17,7 @@ namespace BaiTap3.Services.SQLite
             _database.CreateTableAsync<LoaiHoa>().Wait();
             _database.CreateTableAsync<Hoa>().Wait();
         }
+        
         #region LoaiHoaQuery
         public Task<List<LoaiHoa>> GetLoaiHoaListAsync()
         {
